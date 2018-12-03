@@ -1,0 +1,135 @@
+body {
+    background-color: #ff7f00;
+    font-family: 'Oxygen', sans-serif;
+}
+.font-color {
+    color: #9e9e9e;
+}
+.parent-container {
+    width: 22%;
+    height: 85%;
+    position: absolute;
+    margin: auto;
+    top: 0; bottom: 0;
+    left: 0; right: 0;
+    border-radius: 0.4em;
+    background-color: #f5f5f5;
+}
+.parent-container hr {
+    opacity: 0.5;
+}
+.parent-container-img {
+    width: 94%;
+    text-align: center;
+    padding-left: 0.7em;
+}
+.parent-container h4 {
+    color: #424242;
+    padding-left: 0.7em;
+    margin-top: 0.9em;
+}
+.parent-container h6 {
+    padding-left: 1em;
+    margin-bottom: 0em;
+}
+.child-container-1 {
+    display: flex;
+    padding-left: 0.5em;
+    align-items: center;
+    height: 1.4em;
+    margin-top: 0.3em;
+}
+.child-container-1-img {
+    width: 0.9em;
+    height: 0.9em;
+}
+.box-1 {
+    flex: 6;
+    color: #424242;
+    padding-left: 0.5em;
+}
+.box-2 {
+    flex: 1;
+    color: #ff7f00;
+    padding-right: 1em;
+}
+.scroll-container {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding-top: 0.5em;
+    padding-right: 1.3em;
+    justify-content: space-evenly;
+}
+.scroll-container div {
+    /* line-height: 0.1em; */
+    flex-basis: 15%;
+    color: #9e9e9e;
+}
+.scroll-container-img {
+    width: 3em;
+    height: 3em;
+    padding-left: 1em;
+    margin-bottom: -0.6em;
+    border-radius: 25px;
+}
+.scroll-container h6 {
+    padding-left: 1em;
+    margin-left: 0.4em;
+    margin-bottom: 0em;
+}
+.recomm-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: -0.6em;
+}
+.recomm-container div {
+    padding-bottom: 2.5em;
+}
+.child-recomm-container {
+    display: flex;
+    height: 1.1em;
+    padding-top: 1.2em;
+    align-items: center;
+}
+.child-recomm-container h5 {
+    color: #424242;
+}
+.child-recomm-container h6 {
+    margin-top: -1em;
+    margin-bottom: 1.1em;
+    padding-left: 0em;
+}
+.child-recomm-container div {
+    line-height: 0.5em;
+    text-align: start;
+    padding-left: 0.4em;
+    padding-bottom: 1.6em;
+}
+.child-recomm-container-img {
+    width: 4.5em;
+    height: 4.5em;
+    padding-left: 0.7em;
+}
+.child-recomm-container span {
+    font-size: 0.7em;
+    margin-right:0.9em;
+    padding-top: 0.1em;
+    padding-right: 0.4em;
+    padding-bottom: 0.1em;
+    padding-left: 0.4em;
+    background-color: #e0e0e0;
+}
+.menu-bar {
+    display: flex;
+    padding-top: 0.4em;
+    justify-content: space-around;
+}
+.menu-bar hr {
+    opacity: 0.5;
+}
+.menu-bar-icon {
+    width: 1.3em;
+    height: 1.3em;
+    opacity: 0.9;
+}

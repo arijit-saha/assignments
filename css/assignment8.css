@@ -1,0 +1,17 @@
+.custom-navbar {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.custom-color {
+    background-color: #424242;
+    border-radius: 10px;
+}
+.custom-alignment {
+    margin-top: 15rem;
+    margin-bottom: 15rem;
+}
+.custom-alignment-2 {
+    margin-top: 5rem;
+}
+.custom-text-decoration {
+    text-decoration-line: none !important;
+}

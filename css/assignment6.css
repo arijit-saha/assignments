@@ -1,0 +1,44 @@
+#custom-background-1 {
+    background-color: #9933CC;
+}
+#custom-background-2 {
+    background-color: #00d0a5;
+}
+#custom-background-3 {
+    background-color: #e6f0f8;
+}
+#custom-background-4 {
+    background-color: #ffffff;
+}
+#custom-background-5 {
+    background-color: #ffe596;
+}
+.custom-color {
+    color: #fafafa !important;
+}
+.custom-align-1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 550;
+    padding-top: 6em;
+    padding-bottom: 6em;
+}
+.custom-align-2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 550;
+    padding-top: 4em;
+    padding-bottom: 3em;
+}
+.custom-align-3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 550;
+    padding-top: 1em;
+    padding-bottom: 0.7em;
+}
+.custom-font {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+.custom-img-size {
+    height: 5em;
+    width: 5em;
+}

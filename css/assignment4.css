@@ -1,0 +1,36 @@
+.custom-navbar {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+#custom-row-height {
+    height: 10%;
+    width: auto;
+}
+#custom-row {
+    padding-top: 1.7em;
+    padding-bottom: 1.7em;
+}
+#custom-color {
+    color: blue;
+}
+.custom-align {
+    text-align: left;
+}
+.custom-font-size {
+    font-size: 1.3em;
+    font-weight: 700;
+}
+.custom-head {
+    text-align: center;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-bottom: 3em;
+}
+.h3-color {
+    font-size: 3.3em;
+    color: #80cbc4;
+}
+.text-decoration {
+    margin-top: 1em;
+    background-color: #eeeeee;
+    border-radius: 5px;
+}
